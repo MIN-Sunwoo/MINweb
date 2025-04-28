@@ -84,3 +84,63 @@ sum은 실행되지만 안좋은 함수 표현, multiply는 실행이 안되지�
 
 # 2-12
 함수 표현식이 더 안전하다.
+
+# 2-13
+스코프 체인
+
+# 3-2
+전역공간에서 this와 global은 같다
+
+# 3-3
+global.a, this.a는 undefined
+
+# 3-4
+a, global.a, this.a는 다르다
+
+# 3-5
+global만 선언하는건 안된다.
+
+# 3-6
+모든 function은 this를 가지고 있다
+
+# 3-7
+메서드로서 호출- 점 표기법, 대괄호 표기법
+
+# 3-8
+메서드 내부에서의 this 다른표기법법
+
+# 3-9
+내부함수에서의 this. 모든 함수는 this가 있다.
+
+# 3-10
+괄호안에 호출한 object가 없으면 global
+
+# 3-11
+내부 this가 없으면 scope chain을 찾아서 첫 번째로 있는 this를 찾는다
+
+# 3-12
+함수의 arg를 함수로 호출하면 콜백함수다
+
+# 3-13
+cat 앞에 new가 있으므로 생성자로 동작한다
+
+# 3-14
+call 메서드
+
+# 3-15
+call 메서드
+
+# 3-16
+this는 a:4
+
+# 3-17
+push로 d 추가, slice로 object에서 array로 변경
+
+# 3-18
+call/apply 메서드의 활용
+
+# 3-19
+call/apply 메서드의 활용
+
+# 3-20
+call/apply 메서드의 활용
