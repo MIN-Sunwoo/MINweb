@@ -150,3 +150,7 @@ person, student, employee의 this는 따로 있다
 
 # 3-22
 최대, 최솟값을 직접 구하는 코드
+
+# 3-23
+Math.max/min을 사용하여 편하게 구현
+
