@@ -144,3 +144,9 @@ call/apply 메서드의 활용
 
 # 3-20
 call/apply 메서드의 활용
+
+# 3-21
+person, student, employee의 this는 따로 있다
+
+# 3-22
+최대, 최솟값을 직접 구하는 코드
