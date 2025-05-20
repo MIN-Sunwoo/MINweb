@@ -160,3 +160,53 @@ setInterval은 webAPI
 # 4-2
 clearInterval은 webAPI
 
+# 4-3
+map은 Array.prototype의 함수 중 하나. map의 this는 global
+
+# 4-4
+index, currentvalue의 순서가 중요하다. 이름은 중요하지 않음
+
+# 4-5
+A||B는 A가 있으면 A수행, A가 없으면 B 수행
+
+# 4-6
+foreach는 Array.prototype의 함수
+
+# 4-7
+메서드를 콜백 함수로 전달한 경우
+
+# 4-8
+1초 후 obj1이 출력된다
+
+# 4-10
+1초 후 obj1, 1.5초 후 obj2, 2초 후 obj3 출력
+
+# 4-11
+1초 후 obj1, 1.5초 후 obj2 출력력
+
+# 서버,클라이언트
+서버와 클라이언트 작동 순서
+
+# 비동기처리callback
+비동기 처리 callback
+
+# 비동기처리callback2
+비동기 처리 callback2
+
+# 콜백함수를통한비동기처리
+콜백 함수를 통한 비동기 처리
+
+# 콜백함수를통한 비동기 처리의 문제점
+콜백을 중첩해서 호출하면 가독성이 떨어짐
+
+# promise의개념
+then function 사용을 위해 promise instance를 찾아야함.
+
+# promise 생성 방법
+function의 task가 오래걸린다고 가정. 결과를 resolve에 담는다. 에러를 reject에 담는다.
+
+# promise 사용 방법
+promise 사용 방법
+
+# async/await 키워드를 통한 비동기 코딩
+await는 async함수 안에서만 작동한다
