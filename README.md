@@ -154,3 +154,9 @@ person, student, employee의 this는 따로 있다
 # 3-23
 Math.max/min을 사용하여 편하게 구현
 
+# 4-1
+setInterval은 webAPI
+
+# 4-2
+clearInterval은 webAPI
+
