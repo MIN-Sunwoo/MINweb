@@ -210,3 +210,19 @@ promise 사용 방법
 
 # async/await 키워드를 통한 비동기 코딩
 await는 async함수 안에서만 작동한다
+
+# 자바스크립트 동작 원리 - Async, Await
+자바스크립트 동작원리 Async, Await
+
+# 제너레이터1
+generator가 반복자로 사용된다.
+
+# 제너레이터2
+for of는 done:true일 때 마지막 value를 무시한다.
+
+# 제너레이터3
+...으로 반복 가능한 제너레이터 객체를 배열 요소로 바꾼다.
+
+# 제너레이터4
+yield*으로 generator 함수를 수행시키는 것처럼 사용 가능.
+
